@@ -15,3 +15,4 @@
 - **ch4_gym (7주차):** OpenAI GYM - Frozen Lake 실습
   
 - **HW3_202010770 (12주차 assignment):** DQN 실습 과제
+  - https://github.com/maeng99/Reinforcement_Learning_Practice/blob/main/HW3_assignment.txt
